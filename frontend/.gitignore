@@ -1,0 +1,20 @@
+# Dependency Directories (Jangan diupload)
+node_modules/
+venv/
+.venv/
+__pycache__/
+
+# Build Output
+dist/
+build/
+
+# Environment Variables (Kunci rahasia)
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Database (Jangan upload database lokal)
+*.sql
+*.sqlite3
