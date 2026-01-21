@@ -779,7 +779,7 @@ SOFTWARE.
 ## 📞 Kontak
 
 **Developer**: Zainal Fattah  
-**Email**: zainalfattah@example.com  
+**Email**: zainalfattah100@gmail.com  
 **GitHub**: [@ZainalFattah](https://github.com/ZainalFattah)  
 **Project Link**: [https://github.com/ZainalFattah/website_summarizer](https://github.com/ZainalFattah/website_summarizer)
 
